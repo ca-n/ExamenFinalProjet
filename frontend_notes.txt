@@ -1,0 +1,5 @@
+3 BUTTONS
+	get all, get men, get ontarians
+
+TABLE 
+	id?, firstname, lastname, gender, date of birth
